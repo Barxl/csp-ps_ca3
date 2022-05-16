@@ -6,6 +6,10 @@ body {
   align-items: start;
 }
 
+header {
+  align-items: start;
+}
+
 div {
   border-radius: 3px;
 }
@@ -88,4 +92,9 @@ div {
 
 .fa-user {
   color: #2a67ebcb;
+}
+
+.user {
+  align-items: start;
+  
 }
