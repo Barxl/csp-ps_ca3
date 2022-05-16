@@ -1,7 +1,7 @@
 body {
   font-family: 'Merriweather Sans', sans-serif;
   color: #172b4d;
-  background-color: #0279bf;
+  background-color: #67c68ba3;
   display: flex;
   align-items: start;
 }
@@ -40,7 +40,7 @@ div {
 }
 
 .card {
-  background: white;
+  background: rgb(249, 241, 235);
   border-bottom: 1px solid #aaa;
 }
 
@@ -49,7 +49,7 @@ div {
   min-width: 280px;
   margin: 10px 5px;
   position: relative;
-  background: #dfe1e6;
+  background: #2a67ebcb;
 }
 
 
@@ -72,7 +72,7 @@ div {
   display: inline-block;
   padding: 10px;
   margin-top: 0px;
-  color: gray;
+  color: #172b4d;
   text-decoration: none;
 /*   border-bottom: 1px solid #dfe1e6; */
 }
@@ -83,5 +83,6 @@ div {
 
 .del {
   font-weight: 600;
-  color: gray;
+  color: rgb(39, 38, 38);
 }
+
